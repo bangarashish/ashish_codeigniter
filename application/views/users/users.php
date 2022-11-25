@@ -109,9 +109,6 @@
                 alert(response.responseText);
             }
           });  
-           
-          
-
        });
     });
 </script>
